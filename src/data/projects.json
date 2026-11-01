@@ -1,0 +1,189 @@
+[
+  {
+    "id": "solat",
+    "name": "solat",
+    "displayName": "Solat App — Prayer Guardian",
+    "description": "Aplikasi pengingat waktu salat presisi berbasis Flutter dengan integrasi API Aladhan, alarm native Android, dan fitur smart overlay.",
+    "category": "mobile",
+    "topics": [
+      "portfolio-project"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "language": "Dart",
+    "githubUrl": "https://github.com/allam1768/solat",
+    "homepageUrl": null,
+    "coverImage": "/projects/solat.png",
+    "updatedAt": "2026-08-20"
+  },
+  {
+    "id": "E-Report",
+    "name": "E-Report",
+    "displayName": "E-Report — Community Complaint System",
+    "description": "Sistem pelaporan aspirasi dan keluhan warga terintegrasi berbasis Laravel 12 dan Livewire 4 dengan verifikasi multi-role.",
+    "category": "web",
+    "topics": [
+      "blade"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "Blade",
+    "githubUrl": "https://github.com/allam1768/E-Report",
+    "homepageUrl": null,
+    "coverImage": "/projects/ereport.png",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "izin_app",
+    "name": "izin_app",
+    "displayName": "Surat Izin Mahasiswa IDN",
+    "description": "Platform otomasi perizinan santri/mahasiswa berbasis Flutter dengan kanvas tanda tangan digital interaktif dan dokumen PDF resmi.",
+    "category": "mobile",
+    "topics": [
+      "dart"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "Dart",
+    "githubUrl": "https://github.com/allam1768/izin_app",
+    "homepageUrl": null,
+    "coverImage": "/projects/izinapp.png",
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "Nongkrong.id",
+    "name": "Nongkrong.id",
+    "displayName": "NONGKRONG.id — Smart Cafe OS",
+    "description": "Platform point-of-sale dan manajemen operasional kafe terpadu dengan sinkronisasi inventaris waktu nyata.",
+    "category": "web",
+    "topics": [
+      "python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "githubUrl": "https://github.com/allam1768/Nongkrong.id",
+    "homepageUrl": null,
+    "coverImage": "/projects/nongkrong.png",
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "Web-portoup",
+    "name": "Web-portoup",
+    "displayName": "a-lamp — Interactive Showcase",
+    "description": "Platform portofolio interaktif mutakhir berbasis Next.js 16, React 19, Tailwind CSS, dan integrasi GitHub API.",
+    "category": "web",
+    "topics": [
+      "typescript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "TypeScript",
+    "githubUrl": "https://github.com/allam1768/Web-portoup",
+    "homepageUrl": "https://putra-blond.vercel.app",
+    "coverImage": "/projects/webportoup.png",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "Hamatech",
+    "name": "Hamatech",
+    "displayName": "Hamatech — Pest Control Monitor",
+    "description": "Aplikasi inspeksi dan pemantauan kendali hama terstruktur untuk perusahaan jasa pengendalian hama komersial.",
+    "category": "mobile",
+    "topics": [
+      "portfolio-project"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "language": "Code",
+    "githubUrl": "https://github.com/allam1768/Hamatech",
+    "homepageUrl": null,
+    "coverImage": "/projects/hamatech.webp",
+    "updatedAt": "2026-09-16"
+  },
+  {
+    "id": "movapp",
+    "name": "movapp",
+    "displayName": "MovApp — Cinema Discovery & Catalog",
+    "description": "Aplikasi katalog dan penemuan film interaktif berbasis mobile dengan kurasi sinema terstruktur.",
+    "category": "mobile",
+    "topics": [
+      "portfolio-project"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "Dart",
+    "githubUrl": "https://github.com/allam1768/movapp",
+    "homepageUrl": null,
+    "coverImage": "/projects/movapp.webp",
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "MyIDN_app",
+    "name": "MyIDN_app",
+    "displayName": "MyIDN Mobile Companion",
+    "description": "Aplikasi portal akademik mahasiswa terintegrasi untuk kampus Politeknik IDN.",
+    "category": "mobile",
+    "topics": [
+      "dart"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "language": "Dart",
+    "githubUrl": "https://github.com/allam1768/MyIDN_app",
+    "homepageUrl": null,
+    "coverImage": "/projects/myidn.png",
+    "updatedAt": "2026-10-23"
+  },
+  {
+    "id": "Laravel-13-E-Commerce-Project",
+    "name": "Laravel-13-E-Commerce-Project",
+    "displayName": "PulseCommerce — Modern E-Commerce",
+    "description": "Arsitektur toko daring skala penuh berbasis Laravel dengan integrasi gateway pembayaran dan manajemen stok.",
+    "category": "web",
+    "topics": [
+      "php"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "PHP",
+    "githubUrl": "https://github.com/allam1768/Laravel-13-E-Commerce-Project",
+    "homepageUrl": null,
+    "coverImage": "/projects/ecommerce.png",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "Space-and-Plane-Calculator",
+    "name": "Space-and-Plane-Calculator",
+    "displayName": "Space & Plane Calculator",
+    "description": "Utilitas komputasi geometri ruang dan bidang 2D/3D interaktif.",
+    "category": "other",
+    "topics": [
+      "portfolio-project"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "language": "Java",
+    "githubUrl": "https://github.com/allam1768/Space-and-Plane-Calculator",
+    "homepageUrl": null,
+    "coverImage": "/projects/calculator.webp",
+    "updatedAt": "2026-07-17"
+  },
+  {
+    "id": "Web-porto",
+    "name": "Web-porto",
+    "displayName": "Allam Personal Portfolio v1",
+    "description": "Edisi awal portofolio digital personal dengan showcase karya kreatif dan desain.",
+    "category": "web",
+    "topics": [
+      "portfolio-project"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "language": "TypeScript",
+    "githubUrl": "https://github.com/allam1768/Web-porto",
+    "homepageUrl": "https://a-lamp.vercel.app",
+    "coverImage": "/projects/webporto.png",
+    "updatedAt": "2026-07-17"
+  }
+]
